@@ -1,7 +1,7 @@
 {
   "title": "Home",
   "titleTemplate": "| finrodchen",
-  "welcomeText": "# Yo, I'm Finrod.\n\nHere's my personal homepage.\n\n你好，我是Finrod，這裡是我的個人作品集。",
+  "welcomeText": "# Yo, I'm Finrod.\n\nHere's my personal homepage.\n\n你好，我是Finrod，這裡是我的個人作品集。\n\n與我聯繫：[finrodchen@my.com](mailto:finrodchen@my.com)",
   "logo": "/images/uploads/fin-1.png",
   "icon": "/images/uploads/fin.png",
   "loadingColor": "#0b3765",
