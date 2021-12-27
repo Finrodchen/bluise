@@ -5,7 +5,7 @@
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 
         <div class="mb-12 xl:mb-0">
-          <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
+          <h4 v-if="isSignedUp">感謝您留下聯絡資訊，我會盡快與您聯繫。</h4>
 
           <form
             v-else
@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+          src="https://i.imgur.com/wEQsITK.png"
         />
       </div>
     </div>
